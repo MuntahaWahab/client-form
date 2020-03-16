@@ -1,0 +1,43 @@
+main{
+	margin:0 auto;
+	
+}
+*{
+	margin:0;
+	padding:0;
+}
+
+.clear {
+	overflow: hidden;
+}
+
+
+
+.para{
+	margin-bottom:50px;
+}
+.container{
+	margin-top:60px;
+}
+form{
+	margin-top:25px;
+}
+input[type=text]{
+	background-color:#F0F0F0;
+	border-color:#F0F0F0;
+	height:50px;
+	
+}
+.pp{
+	border-bottom:solid 1px lightgray;
+	
+}
+.bb{
+	
+	height:50px;
+	width:120px;
+	margin-top:20px;
+}
+input[type=text].box{
+	text-top:0px;
+}
